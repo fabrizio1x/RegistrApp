@@ -1,2 +1,3 @@
 # RegistrApp
-Examen Transversal -_$
+Examen Transversal
+
